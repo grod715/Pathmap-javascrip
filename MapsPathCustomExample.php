@@ -1,3 +1,4 @@
+<?php
 <!DOCTYPE html>
 <html>
   <head>
@@ -111,3 +112,4 @@
     <script src="https://maps.googleapis.com/maps/api/js?key=AIzaSyD6XxLLy_lTHU9MaXURrke-iOXz32H_htE&signed_in=true&callback=initMap" async defer> </script>
   </body>
 </html>
+?>
